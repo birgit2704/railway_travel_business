@@ -1,6 +1,6 @@
 # Railway Travel Business – Country Selection Analysis
 
-<a href="https://public.tableau.com/app/profile/birgit.bartenschlager/viz/railway_travel_business/Story1" target=""\_blank title="Story"><img src="screenshot_story.png" width="400" alt="Tableau Story"/></a>
+<a href="https://public.tableau.com/app/profile/birgit.bartenschlager/viz/railway_travel_business/Story1" target="_blank" title="Story"><img src="screenshot_story.png" width="400" alt="Tableau Story"/></a>
 <a href="https://public.tableau.com/app/profile/birgit.bartenschlager/viz/railway_travel_business_dashboard/Dashboard3" target="_blank" title="Dashboard"><img src="screenshot_dashboard.png" width="400" alt="Tableau Dashboard"/></a>
 
 ## Project Overview
