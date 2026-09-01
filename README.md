@@ -1,5 +1,8 @@
 # Railway Travel Business – Country Selection Analysis
 
+<a href="https://public.tableau.com/app/profile/birgit.bartenschlager/viz/railway_travel_business/Story1" title="Story"><img src="screenshot_story.png" width="400" alt="Tableau Story"/></a>
+<a href="https://public.tableau.com/app/profile/birgit.bartenschlager/viz/railway_travel_business_dashboard/Dashboard3" title="Dashboard"><img src="screenshot_dashboard.png" width="400" alt="Tableau Dashboard"/></a>
+
 ## Project Overview
 
 Which country should a railway travel startup choose for its launch?
@@ -21,10 +24,10 @@ The company provided four factors in order of importance:
 
 Additional questions were considered during the analysis:
 
-* Should railway usage or economic strength carry more weight?
-* Does a large railway network necessarily indicate a promising market?
-* How important is international tourism for a railway travel business?
-* Could geographic proximity to another strong market provide opportunities for future expansion?
+- Should railway usage or economic strength carry more weight?
+- Does a large railway network necessarily indicate a promising market?
+- How important is international tourism for a railway travel business?
+- Could geographic proximity to another strong market provide opportunities for future expansion?
 
 ## Analytical Approach
 
@@ -40,8 +43,8 @@ The analysis focused on **2019 data** to provide a consistent pre-pandemic basel
 
 I first narrowed the dataset to countries with:
 
-* The highest railway usage, measured by passenger distance traveled
-* The longest railway networks
+- The highest railway usage, measured by passenger distance traveled
+- The longest railway networks
 
 This produced a shortlist of **10 countries** that performed strongly on the two most important business criteria.
 
@@ -73,12 +76,12 @@ Based on the analysis, **France is the recommended country for the startup's lau
 
 France combines:
 
-* Strong railway usage
-* Extensive railway infrastructure
-* Favorable economic conditions
-* A strong business environment
-* A very large international tourism market
-* Geographic proximity to Germany, creating potential for future expansion
+- Strong railway usage
+- Extensive railway infrastructure
+- Favorable economic conditions
+- A strong business environment
+- A very large international tourism market
+- Geographic proximity to Germany, creating potential for future expansion
 
 The recommendation therefore does not rely on a single metric. Instead, France emerged as the strongest candidate after applying the company's priorities and then considering additional strategic factors.
 
@@ -94,15 +97,15 @@ The Tableau presentation allows the analysis to be explored interactively, inclu
 
 ## Key Skills Demonstrated
 
-* Data cleaning and preparation
-* Exploratory data analysis
-* Multi-factor country comparison
-* Translating business priorities into an analytical approach
-* Data-driven decision making
-* Data visualization
-* Dashboard design
-* Tableau
-* Communicating analytical findings to a non-technical audience
+- Data cleaning and preparation
+- Exploratory data analysis
+- Multi-factor country comparison
+- Translating business priorities into an analytical approach
+- Data-driven decision making
+- Data visualization
+- Dashboard design
+- Tableau
+- Communicating analytical findings to a non-technical audience
 
 ## Conclusion
 
@@ -111,4 +114,3 @@ This project demonstrates how publicly available country-level data can be trans
 Rather than optimizing for a single indicator such as GDP or railway size, I followed the priorities established by the business and progressively narrowed the candidate markets. The final decision was then informed by strategic considerations that were not captured by the initial ranking alone—most notably tourism potential and geographic proximity.
 
 **Recommendation: Launch in France, with Germany representing a potential future expansion market.**
-
